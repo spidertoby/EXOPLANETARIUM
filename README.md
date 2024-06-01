@@ -24,4 +24,5 @@
   - Otras características relevantes de los exoplanetas
 
 ## Licencia
-Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo LICENSE.txt para obtener más detalles.
+
+Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
