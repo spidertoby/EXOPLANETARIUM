@@ -1,4 +1,4 @@
-# EXOPLANETARIUM: Análisis y Visualización de Órbitas Exoplanetarias
+# EXOPLANETARIUM: Análisis y Visualización de Datos Exoplanetarios
 
 ## Descripción
 
