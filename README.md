@@ -23,6 +23,19 @@
   - Diagramas de órbita
   - Otras características relevantes de los exoplanetas
 
+
+
+
+## Instalación 
+La instalacion de este programa requiere ciertos pasos:
+
+## Uso
+## Dependencias
+
+
+
+
+
 ## Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
