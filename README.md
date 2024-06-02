@@ -30,6 +30,10 @@
 La instalacion de este programa requiere ciertos pasos:
 
 ## Uso
+Primeramente asegura que tienes instalado tu paquete. Cuando te asegures de ello podrás importar las diferentes funcionalidades del programa
+como la simulacion de orbitas planetarias, generar graficas de temperatura superficial, velocidad o diagramas HR.
+
+Aclaracion, los datos entregados a Exoplanetarium deben estar proporcionados por el usuario, aparecerá una pestaña para que se pueda seleccionar el archivo y subirlo.
 ## Dependencias
 - Python [3.8, 3.10]
 - Numpy [1.26]
