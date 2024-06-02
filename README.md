@@ -29,7 +29,7 @@
 ## Instalación 
 La instalacion de este programa requiere ciertos pasos:
 
-en la terminal de tu computadora debes escribir: 
+En la terminal de tu computadora debes escribir: 
 *pip install https://github.com/spidertoby/EXOPLANETARIUM* el cual instalará el paquete en tu computadora y siendo una forma mas directa.
 
 ## Uso
