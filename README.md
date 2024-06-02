@@ -31,10 +31,11 @@ La instalacion de este programa requiere ciertos pasos:
 
 ## Uso
 ## Dependencias
-
-
-
-
+- Python 3.8, 3.10
+- Numpy 1.26
+- Pandas
+- pip (astropy 6.0.0, matplotlib 3.8.2, scipy 1.13.0)
+- setuptools 
 
 ## Licencia
 
