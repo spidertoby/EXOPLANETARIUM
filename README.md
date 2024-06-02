@@ -29,6 +29,9 @@
 ## Instalación 
 La instalacion de este programa requiere ciertos pasos:
 
+en la terminal de tu computadora debes escribir: 
+*pip install https://github.com/user/repo/archive/refs/heads/main.zip instala un paquete desde un repositorio en GitHub.*
+
 ## Uso
 Primeramente asegura que tienes instalado tu paquete. Cuando te asegures de ello podrás importar las diferentes funcionalidades del programa
 como la simulacion de orbitas planetarias, generar graficas de temperatura superficial, velocidad o diagramas HR.
