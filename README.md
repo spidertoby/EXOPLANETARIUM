@@ -30,7 +30,7 @@
 La instalacion de este programa requiere ciertos pasos:
 
 en la terminal de tu computadora debes escribir: 
-*pip install https://github.com/user/repo/archive/refs/heads/main.zip instala un paquete desde un repositorio en GitHub.*
+*pip install https://github.com/spidertoby/EXOPLANETARIUM* el cual instalará el paquete en tu computadora y siendo una forma mas directa.
 
 ## Uso
 Primeramente asegura que tienes instalado tu paquete. Cuando te asegures de ello podrás importar las diferentes funcionalidades del programa
