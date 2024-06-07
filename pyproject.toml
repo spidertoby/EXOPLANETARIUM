@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools >= 64.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "EXOPLANETARIUM"
+version = "1.0.0"
+description = "Interfaz gráfica para visualizar datos de exoplanetas"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+keywords = ["exoplanetas", "Interfaz", "datos", "astronómicos", "astrofísica"]
+authors = [
+    { name = "Fabian Destefano Ulloa", email = "fabian.destefano@usach.cl" },
+    { name = "Harry González Garrido", email = "harry.gonzalez@usach.cl" },
+    { name = "Vanessa Meza Aravena", email = "vanessa.meza.a@usach.cl" },
+    { name = "Valentín Muñoz Saldaño", email = "valentin.munoz@usach.cl" }
+]
+
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12"
+]
+
+dependencies = [
+    "numpy==1.26",
+    "pandas",
+    "pip",
+    "astropy==6.0.0",
+    "matplotlib==3.8.2",
+    "scipy==1.13.0"
+]
