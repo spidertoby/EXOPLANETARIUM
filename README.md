@@ -26,12 +26,60 @@
 
 
 
-## Instalación 
-La instalacion de este programa requiere ciertos pasos:
+## Instalación
 
- Primero, necesitas descargar y descomprimir el archivo EXOPLANETARIUM.zip. Dentro de este se encuentra una carpeta llamada "crc",
-que a su vez contiene una carpeta llamada "test", se debe abrir una terminal desde "test" y utilizar el comando "python -m pip install ."
-Una vez completada la instalación, para correr la interfaz, utiliza el comando "python main.py"
+La instalación de este programa requiere ciertos pasos. A continuación, se describen las instrucciones tanto para Linux como para Windows.
+
+### Para Linux:
+
+1. Descarga y descomprime el archivo `EXOPLANETARIUM.zip`.
+
+    ```sh
+    unzip EXOPLANETARIUM.zip
+    ```
+
+2. Navega a la carpeta `test` dentro de `src`:
+
+    ```sh
+    cd EXOPLANETARIUM/src/test
+    ```
+
+3. Utiliza el siguiente comando para instalar el programa:
+
+    ```sh
+    python -m pip install .
+    ```
+
+4. Una vez completada la instalación, para correr la interfaz, utiliza el siguiente comando:
+
+    ```sh
+    python main.py
+    ```
+
+### Para Windows:
+
+1. Descarga y descomprime el archivo `EXOPLANETARIUM.zip`.
+
+    - Haz clic derecho en el archivo y selecciona "Extraer todo..." o utiliza una herramienta como WinRAR o 7-Zip.
+
+2. Navega a la carpeta `test` dentro de `src`. Puedes hacerlo utilizando el Explorador de archivos o desde la línea de comandos.
+
+3. Abre una terminal en la carpeta `test`:
+
+    - Haz clic derecho en la carpeta `test` mientras mantienes presionada la tecla Shift y selecciona "Abrir ventana de PowerShell aquí" o "Abrir ventana de comando aquí".
+
+4. Utiliza el siguiente comando para instalar el programa:
+
+    ```sh
+    python -m pip install .
+    ```
+
+5. Una vez completada la instalación, para correr la interfaz, utiliza el siguiente comando:
+
+    ```sh
+    python main.py
+    ```
+
  
 
 ## Uso
