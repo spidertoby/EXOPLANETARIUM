@@ -29,8 +29,10 @@
 ## Instalación 
 La instalacion de este programa requiere ciertos pasos:
 
-En la terminal de tu computadora debes escribir: 
-*pip install "git+https://github.com/spidertoby/EXOPLANETARIUM"* el cual instalará el paquete en tu computadora y siendo una forma mas directa.
+ Primero, necesitas descargar y descomprimir el archivo EXOPLANETARIUM.zip. Dentro de este se encuentra una carpeta llamada "crc",
+que a su vez contiene una carpeta llamada "test", se debe abrir una terminal desde "test" y utilizar el comando "python -m pip install ."
+Una vez completada la instalación, para correr la interfaz, utiliza el comando "python main.py"
+ 
 
 ## Uso
 Primeramente asegura que tienes instalado tu paquete. Cuando te asegures de ello podrás importar las diferentes funcionalidades del programa
