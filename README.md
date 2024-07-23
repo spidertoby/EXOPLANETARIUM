@@ -31,16 +31,16 @@ La instalación de este programa requiere ciertos pasos. A continuación, se des
 
 ### Para Linux:
 
-1. Descarga y descomprime el archivo `EXOPLANETARIUM.zip`.
+1. Descarga y descomprime el archivo `Exoplanetarium_Linux.zip`.
 
     ```sh
-    unzip EXOPLANETARIUM.zip
+    unzip Exoplanetarium_Linux.zip
     ```
 
-2. Navega a la carpeta `test` dentro de `src`:
+2. Navega a la carpeta `main` dentro de `Exoplanetarium_Linux`:
 
     ```sh
-    cd EXOPLANETARIUM/src/test
+    cd Exoplanetariuma_Linux/main
     ```
 
 3. Utiliza el siguiente comando para instalar el programa:
@@ -57,15 +57,15 @@ La instalación de este programa requiere ciertos pasos. A continuación, se des
 
 ### Para Windows:
 
-1. Descarga y descomprime el archivo `EXOPLANETARIUM.zip`.
+1. Descarga y descomprime el archivo `Exoplanetarium_Windows.zip`.
 
     - Haz clic derecho en el archivo y selecciona "Extraer todo..." o utiliza una herramienta como WinRAR o 7-Zip.
 
-2. Navega a la carpeta `test` dentro de `src`. Puedes hacerlo utilizando el Explorador de archivos o desde la línea de comandos.
+2. Navega a la carpeta `main` dentro de `Exoplanetarium_Windows`. Puedes hacerlo utilizando el Explorador de archivos o desde la línea de comandos.
 
-3. Abre una terminal en la carpeta `test`:
+3. Abre una terminal en la carpeta `main`:
 
-    - Haz clic derecho en la carpeta `test` mientras mantienes presionada la tecla Shift y selecciona "Abrir ventana de PowerShell aquí" o "Abrir ventana de comando aquí".
+    - Haz clic derecho en la carpeta `main` mientras mantienes presionada la tecla Shift y selecciona "Abrir ventana de PowerShell aquí" o "Abrir ventana de comando aquí".
 
 4. Utiliza el siguiente comando para instalar el programa:
 
@@ -96,4 +96,5 @@ Aclaración, los datos con los que trabaja Exoplanetarium ya están integrados d
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENSE.txt](LICENSE.txt) para obtener más detalles.
+
