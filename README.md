@@ -1,8 +1,9 @@
-# EXOPLANETARIUM: Análisis y Visualización de Datos Exoplanetarios
+# EXOPLANETARIUM: Análisis y Visualización de Datos Exoplanetarios.
 
 ## Descripción
 
-**Exoplanetarium** es un programa que adquiere datos de planetas exoplanetarios desde [Exoplanet.eu](https://exoplanet.eu/catalog/), los procesa y los grafica en una interfaz gráfica de usuario (GUI). El programa simula las órbitas de los exoplanetas y genera gráficos de diferentes datos, como la velocidad radial, mapa de temperaturas superficiales, diagramas de Hertzsprung-Russell (H-R), diagramas de órbita y otras características relevantes de los exoplanetas.
+**Exoplanetarium** es un programa que adquiere datos de planetas exoplanetarios desde [Exoplanet.eu](https://exoplanet.eu/catalog/), los procesa y los gráfica en una interfaz gráfica de usuario (GUI). l programa genera gráficos de diversas características de los exoplanetas, tales como la velocidad radial, mapa de temperaturas superficiales, hasta diagramas de Hertzsprung-Russell (H-R) y simulaciones de orbita, junto a otras características relevantes.
+Su objetivo es ser amigable e intuitiva con el usuario, proporcionando información sobre los gráficos y como interpretarlos.
 
 ## Integrantes
 
@@ -15,13 +16,11 @@
 
 - Adquisición de datos exoplanetarios desde la base de datos [Exoplanet.eu](https://exoplanet.eu/catalog/)
 - Procesamiento y limpieza de datos
-- Simulación de órbitas exoplanetarias
-- Generación de gráficos interactivos de:
-  - Velocidad radial
+- Generación de gráficos interactivos tipo:
+  - Histograma y Scatter Plots de distintas caractersticas
   - Mapa de temperaturas superficiales
-  - Diagramas de Hertzsprung-Russell (H-R)
-  - Diagramas de órbita
-  - Otras características relevantes de los exoplanetas
+  - Diagrama de Hertzsprung-Russell (H-R)
+  - Simulación de órbitas exoplanetarias
 
 
 
@@ -83,15 +82,16 @@ La instalación de este programa requiere ciertos pasos. A continuación, se des
  
 
 ## Uso
-Primeramente asegura que tienes instalado tu paquete. Cuando te asegures de ello podrás importar las diferentes funcionalidades del programa
-como la simulacion de orbitas planetarias, generar graficas de temperatura superficial, velocidad o diagramas HR.
+Previamente asegúrese que tiene instalado su paquete. Cuando se asegure de ello podrá importar las diferentes funcionalidades del programa
+como la simulacion de orbitas planetarias, generar graficas de temperatura superficial o diagramas HR.
 
-Aclaracion, los datos entregados a Exoplanetarium deben estar proporcionados por el usuario, aparecerá una pestaña para que se pueda seleccionar el archivo y subirlo.
+Aclaración, los datos con los que trabaja Exoplanetarium ya están integrados dentro de la terminal, los cuales son extraídos directamente desde la página y se actualizan automáticamente a medida que la página añade nuevos registros.
+
 ## Dependencias
 - Python [3.8, 3.10]
 - Numpy [1.26]
 - Pandas
-- pip (astropy [6.0.0], matplotlib [3.8.2], scipy [1.13.0])
+- pip (astropy [6.0.0], matplotlib [3.8.2], scipy [1.13.0], beautifulsoup4 [4.12.2], requests [2.31.0], selenium [4.10.0], webdriver-manager [3.8.6] )
 - setuptools 
 
 ## Licencia
