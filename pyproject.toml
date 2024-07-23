@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "EXOPLANETARIUM"
-version = "1.0.0"
+version = "2.1.2"
 description = "Interfaz gráfica para visualizar datos de exoplanetas"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { file = "LICENSE" }
+license = { file = "LICENSE.txt" }
 keywords = ["exoplanetas", "Interfaz", "datos", "astronómicos", "astrofísica"]
 authors = [
     { name = "Fabian Destefano Ulloa", email = "fabian.destefano@usach.cl" },
@@ -27,10 +27,16 @@ classifiers = [
 ]
 
 dependencies = [
+    "python>=3.8, <3.10",
     "numpy==1.26",
     "pandas",
     "pip",
+    "setuptools",
     "astropy==6.0.0",
     "matplotlib==3.8.2",
-    "scipy==1.13.0"
+    "scipy==1.13.0",
+    "beautifulsoup4==4.12.2",
+    "requests==2.31.0",
+    "selenium==4.10.0",
+    "webdriver-manager==3.8.6"
 ]
