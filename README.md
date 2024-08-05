@@ -30,6 +30,7 @@ Su objetivo es ser amigable e intuitiva con el usuario, proporcionando informaci
 La instalación de este programa requiere ciertos pasos. A continuación, se describen las instrucciones tanto para Linux como para Windows.
 
 ### Para Linux:
+El link de la carpeta zip es el siguiente: https://drive.google.com/file/d/1xwVjpb-s7I4eBq-gT8sfbgM7IJHptPrk/view?usp=sharing 
 
 1. Descarga y descomprime el archivo `Exoplanetarium_Linux.zip`.
 
