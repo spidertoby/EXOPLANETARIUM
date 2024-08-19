@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**Exoplanetarium** es un programa que adquiere datos de planetas exoplanetarios desde [Exoplanet.eu](https://exoplanet.eu/catalog/), los procesa y los gráfica en una interfaz gráfica de usuario (GUI). l programa genera gráficos de diversas características de los exoplanetas, tales como la velocidad radial, mapa de temperaturas superficiales, hasta diagramas de Hertzsprung-Russell (H-R) y simulaciones de orbita, junto a otras características relevantes.
+**EXOPLANETARIUM** es un programa que adquiere datos de planetas exoplanetarios desde [Exoplanet.eu](https://exoplanet.eu/catalog/), los procesa y los gráfica en una interfaz gráfica de usuario (GUI). El programa genera gráficos de velocidad radial, la masa del planeta o su estrella anfitriona, mapa de temperaturas superficiales, hasta diagramas de Hertzsprung-Russell (H-R) y simulaciones de orbita, junto a otras características relevantes.
 Su objetivo es ser amigable e intuitiva con el usuario, proporcionando información sobre los gráficos y como interpretarlos.
 
 ## Integrantes
@@ -15,7 +15,8 @@ Su objetivo es ser amigable e intuitiva con el usuario, proporcionando informaci
 ## Características
 
 - Adquisición de datos exoplanetarios desde la base de datos [Exoplanet.eu](https://exoplanet.eu/catalog/)
-- Procesamiento y limpieza de datos
+- Procesamiento y limpieza de datos.
+- Guia de como usar la interfaz.
 - Generación de gráficos interactivos tipo:
   - Histograma y Scatter Plots de distintas caractersticas
   - Mapa de temperaturas superficiales
@@ -83,9 +84,9 @@ El link de la carpeta zip es el siguiente: [Exoplanetarium_Linux.zip](https://dr
 
 ## Uso
 Previamente asegúrese que tiene instalado su paquete. Cuando se asegure de ello podrá importar las diferentes funcionalidades del programa
-como la simulacion de orbitas planetarias, generar graficas de temperatura superficial o diagramas HR.
+como la Simulacion de Orbitas planetarias, generar graficas de Temperatura Superficial o Diagrama H-R.
 
-Aclaración, los datos con los que trabaja Exoplanetarium ya están integrados dentro de la terminal, los cuales son extraídos directamente desde la página y se actualizan automáticamente a medida que la página añade nuevos registros.
+Aclaración, los datos con los que trabaja EXOPLANETARIUM ya están integrados dentro de la terminal, los cuales son extraídos directamente desde la página y se actualizan automáticamente a medida que la página añade nuevos registros, esto depende de si el usuario prefiere actualizar los datos o no.
 
 ## Dependencias
 - Python [3.9]
