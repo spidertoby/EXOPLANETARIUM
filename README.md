@@ -91,8 +91,9 @@ Aclaración, los datos con los que trabaja Exoplanetarium ya están integrados d
 - Python [3.8, 3.10]
 - Numpy [1.26]
 - Pandas
-- pip (astropy [6.0.0], matplotlib [3.8.2], scipy [1.13.0], beautifulsoup4 [4.12.2], requests [2.31.0], selenium [4.10.0], webdriver-manager [3.8.6] )
+- pip (astropy [6.0.0], matplotlib [3.8.2], scipy [1.13.0], beautifulsoup4 [4.12.2], requests [2.31.0], selenium [4.10.0], webdriver-manager [3.8.6], opencv-python [24.1.1], pillow [10.0.1])
 - setuptools 
+
 
 ## Licencia
 
